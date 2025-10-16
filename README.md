@@ -21,7 +21,7 @@ This project allowed me to experiment with advanced React concepts and create a 
 
 ```bash
 git clone https://github.com/BatiSlyme/wordle.git
-cd wordle-react
+cd wordle
 npm run dev
 ```
 
