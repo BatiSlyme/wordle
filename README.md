@@ -13,9 +13,8 @@ This project allowed me to experiment with advanced React concepts and create a 
 
 ## Demo
 
-*(You can add a GIF or screenshot here to showcase your game)*  
-
 ![Wordle Clone Screenshot](./screenshot.png)
+<img width="1906" height="836" alt="image" src="https://github.com/user-attachments/assets/2cec5caa-5a5c-4118-9b37-a7668c2cb0c1" />
 
 ## Installation & Running
 
