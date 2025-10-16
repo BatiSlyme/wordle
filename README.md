@@ -20,5 +20,5 @@ This project allowed me to experiment with advanced React concepts and create a 
 1. Clone the repository:
 
 ```bash
-git clone [[https://github.com/BatiSlyme/wordle](https://github.com/BatiSlyme/wordle).git](https://github.com/BatiSlyme/wordle)
+git clone https://github.com/BatiSlyme/wordle.git
 cd wordle-react
