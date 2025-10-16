@@ -106,7 +106,6 @@ function App() {
 
   return (
     <div className={"board"}>
-      THE WORD IS {word.join("")}
       {rows}
       <MenuModal>
         {/* call fireworks https://jsfiddle.net/elin/7m3bL/*/}
