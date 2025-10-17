@@ -6,7 +6,7 @@ This project allowed me to experiment with advanced React concepts and create a 
 
 ## Features
 
-- **Usig the API for fetching the words (adapted from [https://api.frontendexpert.io](https://api.frontendexpert.io/api/fe/wordle-words))
+- **Using the API for fetching the words:** (adapted from [https://api.frontendexpert.io](https://api.frontendexpert.io/api/fe/wordle-words))
 - **React Hooks & APIs:** Utilizes `useImperativeHandle`, Context API, `createPortal`, and memoization for performance optimizations.
 - **Animations:** Smooth animations including fireworks for winning the game (adapted from [this JSFiddle](https://jsfiddle.net/elin/7m3bL/)).
 - **Responsive Design:** Works well on both desktop and mobile.
